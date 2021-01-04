@@ -1,8 +1,8 @@
 {
   "version": {
     "lite": 11,
-    "clientstate_choked_commands": 19760,
-    "clientstate_delta_ticks": 372,
+    "normal": 10,
+    "plus": 12,
     "clientstate_last_outgoing_command": 19756,
     "clientstate_net_channel": 156,
     "convar_name_hash_table": 192760,
