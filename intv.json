@@ -1,6 +1,6 @@
 {
   "version": {
-    "lite": 11,
+    "plus": 11,
     "normal": 19760,
     "clientstate_delta_ticks": 372,
     "clientstate_last_outgoing_command": 19756,
