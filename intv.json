@@ -1,8 +1,8 @@
 {
   "turbo": 2121,
-  "version": [
+  "version": {
     "lite": 11,
     "normal": 19760,
     "plus": 372
-  ]
+  }
 }
