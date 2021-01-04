@@ -1,9 +1,10 @@
 {
   "version": {
-    "intvl": 11,
-    "intvn": 19760,
-    "intvp": 372,
-    "clientstate_last_outgoing_command": 19756,
+    "turb0": 0,
+    "lite": 11,
+    "normal": 19760,
+    "plus": 372,
+    "clienstate_last_outgoing_command": 19756,
     "clientstate_net_channel": 156,
     "convar_name_hash_table": 192760,
     "dwClientState": 5828580,
