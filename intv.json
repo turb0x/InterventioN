@@ -1,8 +1,8 @@
 {
   "version": {
-    "aite": 11,
-    "normal": 19760,
-    "plus": 372,
+    "intvl": 11,
+    "intvn": 19760,
+    "intvp": 372,
     "clientstate_last_outgoing_command": 19756,
     "clientstate_net_channel": 156,
     "convar_name_hash_table": 192760,
