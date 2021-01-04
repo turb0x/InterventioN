@@ -1,1 +1,6 @@
-1.1
+{
+  "versions": {
+    "lite": 11,
+    "clientstate_choked_commands": 19760,
+    }
+}
