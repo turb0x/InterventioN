@@ -1,7 +1,6 @@
 {
-  "ver": {
-    "lite": 10,
-    "normal": 10,
-    "plus": 10
+  "users": {
+    "admin": 1,
+    "next": 0
   }
 }
