@@ -1,6 +1,5 @@
 {
-  "users": {
-    "turb0x": 1,
-    "beniz": 1
+  "versions": {
+    "launcher": 13
   }
 }
